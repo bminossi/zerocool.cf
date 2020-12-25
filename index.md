@@ -1,6 +1,4 @@
 ## Welcome to my blog =)
 
-You can use the [editor on GitHub](https://github.com/bminossi/zerocool.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://twitter.com/zeroc00I?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Hit me on @zeroc00I</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
