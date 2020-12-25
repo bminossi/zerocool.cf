@@ -31,4 +31,3 @@ xargs -P 500 -a hosts -I@ sh -c 'dig @' 2>/dev/null | awk -F'<<>>' '{print $3}' 
 ### Command
 
 cat hostUnicos.txt | while read line;do xargs -P 500 -a /SecList/subbrute/names_small.txt -I@ sh -c "dig +noidnout +noidnin +short @.$line | grep -c '^' 1>/dev/null && echo @.$line | tee -a hostsDig";done
-
