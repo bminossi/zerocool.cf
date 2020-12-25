@@ -1,11 +1,4 @@
-#
-# ____                 _                _             
-#/ ___| _   _ _ __    | |__   __ _  ___| | _____ _ __ 
-#\___ \| | | | '_ \   | '_ \ / _` |/ __| |/ / _ \ '__|
-# ___) | |_| | |_) |  | | | | (_| | (__|   <  __/ |   
-#|____/ \__,_| .__( ) |_| |_|\__,_|\___|_|\_\___|_|   
-#            |_|  |/                                  
-#
+<img src="https://github.com/bminossi/zerocool.cf/blob/gh-pages/sup.png?raw=true"></img>
 
 <a href="https://twitter.com/zeroc00I?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Hit me on @zeroc00I</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
