@@ -1,1 +1,1 @@
-# zerocool.io
+# zerocool.cf
