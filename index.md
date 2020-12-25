@@ -2,8 +2,8 @@
 
 <a href="https://twitter.com/zeroc00I?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Hit me on @zeroc00I</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Drafting my quick commands
----
+# Drafting my quick commands
+
 ## Manual Filtering alive hosts
 ```
 xargs -P 500 -a lista -I@ sh -c 'dig @ | grep -q NOERROR 1>/dev/null && echo | echo @;'
